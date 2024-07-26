@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JeisonRobles
-- 👀 I’m interested in I am interested in artificial intelligence and data mining
-- 🌱 I’m currently learning artificial intelligence
+- 👀 I’m interested in artificial intelligence and data mining
 - 💞️ I’m looking to collaborate on algorithms
 - 📫 How to reach me. You can findme on Linkedin, just look for Jeison Robles Arias
 
